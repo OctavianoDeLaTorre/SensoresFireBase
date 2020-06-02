@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600282784705",
+    "firebase_url": "https://demosensores.firebaseio.com",
+    "project_id": "demosensores",
+    "storage_bucket": "demosensores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600282784705:android:eff173e0ad0e896be8c540",
+        "android_client_info": {
+          "package_name": "com.demo.sensores20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600282784705-56k8hp1f4jrhuaudqfulldpq2r7tdg1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.sensores20",
+            "certificate_hash": "57b50d2ff9e0fb762e5263d1dfc0b56fd70e426e"
+          }
+        },
+        {
+          "client_id": "600282784705-t28k725661a5129k069jldlsrkijread.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB71jrNkfSXS8MFSNyJuo4k-ms3rwVU3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600282784705-t28k725661a5129k069jldlsrkijread.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
