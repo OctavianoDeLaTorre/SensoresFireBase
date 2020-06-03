@@ -8,12 +8,6 @@ public class MySensor {
     public MySensor() {
     }
 
-    public MySensor(String id, String nombre, String valor) {
-        this.id = id;
-        this.nombre = nombre;
-        this.valor = valor;
-    }
-
     public String getId() {
         return id;
     }
